@@ -1,0 +1,8 @@
+Reference to the requirement,Requirement description,Actor affected or concerned by the requirement,High-level Processes,Category
+Article 3,Data sources and methods,Member States (National statistical authorities responsible for compiling non-financial commercial real estate statistics),"Data collection, Data processing, Data compilation","Data, Digital public services;"
+Article 4(1),Actors to provide access to data sources,Statistical units as set out in Council Regulation (EEC) No 696/93; holders of administrative records; private data holders;,"Data collection, Data processing","Data, Digital public services;"
+Article 4(2); Article 4(3),Source data and information to be provided by the statistical units set out in Council Regulation (EEC) No 696/93,National statistical authorities responsible for compiling non-financial commercial real estate statistics; Statistical units as set out in Council Regulation (EEC) No 696/93;,Data collection,"Data, Digital public services;"
+Article 4(4),Use of source data,The NSIs and other national authorities;Private data holders,Data collection; Data reuse;,"Data, Digital public services; Digital Solutions;"
+Article 4(5),Access to and use of source data,National Statistical Institute Commission (Eurostat) Private data holder,Data reuse; Data processing; Data compilation,"Data, Digital public services; Digital Solutions;"
+Article 5,Statistical data requirements,Member States; European Commission,"Data processing, Data compilation; Data transmission","Data, Digital public services; Digital Solutions;"
+Article 6,Quality requirements and quality reporting regarding statistics,Member States; European Commission,Data quality; Data collection; Data compilation; Data transmission;,"Data, Digital public services;"
