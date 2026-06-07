@@ -13,13 +13,7 @@ policy_areas: "Policy areas not found"
 
 | Reference to the requirement | Requirement description | Actor affected or concerned by the requirement | High-level Processes | Category |
 | --- | --- | --- | --- | --- |
-| Article 1(6) | The Commission is empowered to define rules and provisions on the electronic | - Commission - Stakeholders - General public | Labelling of grapevine products | Digital solution |
-
-> 19 As regards traditional own resources (customs duties, sugar levies), the amounts indicated must be net amounts, i.e. gross amounts after deduction of 20% for collection costs. 
-
-
-| labelling of mandatory information defined in Article 119 of the regulation. |  |  |  |  |
-| --- | --- | --- | --- | --- |
+| Article 1(6) | The Commission is empowered to define rules and provisions on the electronic labelling of mandatory information defined in Article 119 of the regulation. | - Commission - Stakeholders - General public | Labelling of grapevine products | Digital solution |
 | Article 2(3) | As above for aromatised wine products. | - Stakeholders - General public | Labelling of aromatised wine products | Digital solution |
 
 ## **4.2. Data** 
