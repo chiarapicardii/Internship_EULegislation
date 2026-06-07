@@ -4,7 +4,7 @@ data: "Date not found"
 policy_areas: "Simplification, Competitiveness"
 ---
 
-# Title not found
+# Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL, amending Directives 2014/65/EU and (EU) 2022/2557 as regards the extension of certain mitigating measures available to SME to small mid-cap enterprises
 
 ## DIGITAL DIMENSIONS
 
