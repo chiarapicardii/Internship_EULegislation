@@ -90,49 +90,25 @@ CBAM will be processing following data assets
 
 Further details for each data asset can be found in the table below 
 
-
 | CBAM Definitive Primary Asset Description | Relevant Business Component/Processes Description |
 | :--- | :--- |
-| BAM Certificate Management Data | CBAM Certificate Lifecycle Management provides information on certificates and number of certificates processed, their value, and manages the certificate's lifecycle, and forprovidinginformation for risk and non-compliance monitoring purposes. |  |
-| CBAM Declarant Data | Declarant Authorisation & Declarant Replication & Validation Data. Declarant Account & Account Management Data. CBAM authorisation management in charge of lifecycle management of the CBAM authorisation granted by the NCA to importers or indirect representatives. Communicates the required information of the CBAM Declarant Account to CBAM Authorisation Replication and Validation Services (ARVS), that maintains the information on the CBAM Authorised Declarants to be provided to NCAs and National Customs Competent Administrations (NCCA) in charge of assessing the importer authorisations. |  |
-| CBAM Declaration Data, Review, and Declaration Lifecycle Data. | Declaration Lifecycle Management & Declaration Reporting Data. |  |
-
-CBAM Declaration Lifecycle (Declaration Creation, Imported Goods, Emissions,
-Review,Finalisation or Rejection)Management & Reporting.||
-
-| CBAM Emissions & Calculations Data. | Calculation of CBAM Declarant imported goods emissions based on data obtained per declarant, reference data, registry data (declarant's own values), Operators & 3rd Countries(verification report),etc. |
-| --- | --- |
+| BAM Certificate Management Data | CBAM Certificate Lifecycle Management provides information on certificates and number of certificates processed, their value, and manages the certificate's lifecycle, and for providing information for risk and non-compliance monitoring purposes. |
+| CBAM Declarant Data | Declarant Authorisation & Declarant Replication & Validation Data. Declarant Account & Account Management Data. CBAM authorisation management in charge of lifecycle management of the CBAM authorisation granted by the NCA to importers or indirect representatives. Communicates the required information of the CBAM Declarant Account to CBAM Authorisation Replication and Validation Services (ARVS), that maintains the information on the CBAM Authorised Declarants to be provided to NCAs and National Customs Competent Administrations (NCCA) in charge of assessing the importer authorisations. |
+| CBAM Declaration Data, Review, and Declaration Lifecycle Data. | Declaration Lifecycle Management & Declaration Reporting Data. CBAM Declaration Lifecycle (Declaration Creation, Imported Goods, Emissions, Review, Finalisation or Rejection) Management & Reporting. |
+| CBAM Emissions & Calculations Data. | Calculation of CBAM Declarant imported goods emissions based on data obtained per declarant, reference data, registry data (declarant's own values), Operators & 3rd Countries (verification report), etc. |
 | CBAM Imported Goods Data. | The NCA and Commission Portals feature interfaces that monitor the ingress of SURV3 data (incl. identifying issues) and enable users to manually input data, via file batch upload, for imported goods as well as data for inward processing goods. This data will then undergo processing, be stored within the Portals, and subsequently forwarded to the Registry Back End for consolidation. |
-| CBAM Ledger (Registry) Data. |  |
-
-Note: The exact data to be
-stored in the Ledger is not
-yet finalised. The main
-concept is that the Ledger is
-an immutable journal and
-appropriate security
-measures have been
-addressed. This asset will be
-re-assessed duringP3.|Registry Ledger Account Processing & Transaction Data.
-CBAM Registry Ledger manages, accounts for, and registers journal entries of
-Declarant data (incl. account number) and transactions between related CBAM
-component relationships through an append-only data process and immutable data
-store (incl. for declaration lifecycle management, authorisation & account
-management, certificate management, risk & non-compliance monitoring, ARVS,
-etc.).||
-
+| CBAM Ledger (Registry) Data. | Registry Ledger Account Processing & Transaction Data. CBAM Registry Ledger manages, accounts for, and registers journal entries of Declarant data (incl. account number) and transactions between related CBAM component relationships through an append-only data process and immutable data store (incl. for declaration lifecycle management, authorisation & account management, certificate management, risk & non-compliance monitoring, ARVS, etc.). |
 | CBAM Non-Compliance Monitoring, Circumvention Investigation, and Risk Management Data. | CBAM information system used for tracking, monitoring, and enhancing potential or confirmed cases of irregularities & non-compliance in CBAM scheme. Identifying, monitoring, investigating, and reporting on circumvention and other illegal practices in non-compliance with CBAM Regulation. Risk Assessment (incl. results of declarations assessments) & management component to identify & assess risks (e.g. risk events analysis, verification reports, risk control results, etc.) relating to declaration review process & CBAM Registry Back-End potential irregularities & circumventions (further investigation). Integrates information and functionality between investigations, risk management, and secure forum for respective activities. |
-| --- | --- |
-| CBAM Reference Data. | Primary source for all CBAM reference data and ensures data consistency and integrityacross all CBAM components(directlyor indirectly). |
+| CBAM Reference Data. | Primary source for all CBAM reference data and ensures data consistency and integrity across all CBAM components (directly or indirectly). |
 | CBAM Reporting, Dashboards, Notifications, and Document Management Data. | Critical tool for tracking and monitoring CBAM scheme and KPIs and relevant business metrics collection and analysis. Used to communicate business information to relevant users of CBAM system and scheme; this includes the ability for replying to notifications where necessary/ required. Used for the storage, retrieval, and management of documents affecting many compartments across the CBAM system. |
 | CBAM Secure Forum Data. | Platform for ad hoc communication as well as sensitive information exchange between all authorities responsible for CBAM regulation implementation (NCAs, NCCAs, Commission, Other Authorities such as EPPO, OLAF etc.). All other structured and/ or un-structured information/ data sourced and/ or extracted from the CBAM system and stored and/ or processed in storage and media locations external to the CBAM system. |
-| CBAM Users’ Access Management Data. | Users’ (e.g., declarants, Member States Customs Authorities, EC Authorities, etc.) access,login,and access management data to the CBAM system. |
+| CBAM Users’ Access Management Data. | Users’ (e.g., declarants, Member States Customs Authorities, EC Authorities, etc.) access, login, and access management data to the CBAM system. |
 | Operators of 3rd Countries and their Installations Data. | Allows operators of 3rd country installations producing CBAM applicable goods to register/ de-register (e.g. cessation of operations) as CBAM operators and provide relevant information regarding production processes/ methods, qualifying parameters, emissions data, and verification reports, etc. The relevant verification report may be made available for use by CBAM Declarants - this information includes confidential production and qualifying parameters data that may not be available to Declarants but only EU Commission and NCAs). |
 | CBAM Declarant/ Importer Functions | Primary business functions performed by the Declarant/ trader relying on processes executed/ initiated through the CBAM Declarant portal. |
 | CBAM EU Commission Functions | Primary business functions performed by the European Commission relying on processes executed/ initiated through the CBAM Commission portal. |
 | CBAM Non-Compliance Monitoring, Circumvention Investigation, and Risk Management Function | CBAM information system used for tracking, monitoring, and enhancing potential or confirmed cases of irregularities & non-compliance in CBAM scheme. |
-| National Competent Authorities Functions | Primary business functions performed by member state’s national competent authorities (NCAs/ NCCAs) relying on processes executed/ initiated through the CBAM NCAportal. |
-| Operators of 3rd Countries Installations & Accredited Verifiers Functions | Primary business functions performed by 3rd Country Operators & Installations and Accredited Verifiers (TBC) relying on processes executed/ initiated through the CBAM 3rd CountryOperators & Installationsportal. |
+| National Competent Authorities Functions | Primary business functions performed by member state’s national competent authorities (NCAs/ NCCAs) relying on processes executed/ initiated through the CBAM NCA portal. |
+| Operators of 3rd Countries Installations & Accredited Verifiers Functions | Primary business functions performed by 3rd Country Operators & Installations and Accredited Verifiers (TBC) relying on processes executed/ initiated through the CBAM 3rd Country Operators & Installations portal. |
 
 ## **4.3. Digital solutions** 
 
