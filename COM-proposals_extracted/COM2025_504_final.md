@@ -12,7 +12,7 @@ When completing this Section, it is acceptable to present the information in a t
 
 ## **4.1. Requirements of digital relevance** 
 
-## **Requirement 1** : 
+**Requirement 1** : 
 
 - Reference: Article 1(1), Article 2 (1a, 1c) and other 
 
@@ -22,7 +22,7 @@ When completing this Section, it is acceptable to present the information in a t
 
 - High-level processes: Market surveillance verification and monitoring. 
 
-## **Requirement 2** : 
+**Requirement 2** : 
 
 - Reference: Article 1 (2)(3)(4)(5) and other 
 
@@ -34,7 +34,7 @@ When completing this Section, it is acceptable to present the information in a t
 
 - High-level processes: Market surveillance verification and monitoring. 
 
-## **Requirement 3** : 
+**Requirement 3** : 
 
 - Reference: Article 1(6)(a), Article 2(2a) and other 
 
@@ -44,7 +44,7 @@ When completing this Section, it is acceptable to present the information in a t
 
 - High-level processes: Market surveillance verification and monitoring. 
 
-## **Requirement 4** : 
+**Requirement 4** : 
 
 - Reference: Article 1(6)(b) and other 
 
@@ -54,7 +54,7 @@ When completing this Section, it is acceptable to present the information in a t
 
 - High-level processes: Market surveillance verification and monitoring 
 
-## **Requirement 5** : 
+**Requirement 5** : 
 
 - Reference: Article 1 (7)(a) and other 
 
@@ -64,7 +64,7 @@ When completing this Section, it is acceptable to present the information in a t
 
 - High-level processes: conformity assessment procedure 
 
-## **Requirement 6** : 
+**Requirement 6** : 
 
 - Reference: Article 1(7b) and other 
 
@@ -74,7 +74,7 @@ When completing this Section, it is acceptable to present the information in a t
 
 - High-level processes: Conformity assessment procedures 
 
-## **Requirement 7** : 
+**Requirement 7** : 
 
 - Reference: Article 2 (1b) and other 
 
@@ -84,7 +84,7 @@ When completing this Section, it is acceptable to present the information in a t
 
 - High-level processes: Conformity assessment procedures, Market surveillance verification and monitoring. 
 
-## **Requirement 8** : 
+**Requirement 8** : 
 
 - Reference: Article 3(2) and other 
 
