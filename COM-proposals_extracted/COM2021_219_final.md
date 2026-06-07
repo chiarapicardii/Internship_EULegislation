@@ -22,11 +22,11 @@ Solution, Digital Public Service
 
 SMC status as specified in Article 1 (1) and Article 2. 
 
-4.3. Digital solutions 
+## 4.3. Digital solutions 
 
 N/A 
 
-4.4. Interoperability assessment 
+## 4.4. Interoperability assessment 
 
 Digital public service: Admission for trading on MTF markets and Critical entities Resilience public service. 
 
