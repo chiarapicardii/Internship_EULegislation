@@ -25,8 +25,6 @@ policy_areas: "Policy areas not found"
 
 ## **4.2. Data** 
 
-
-4.2. Data 
 | Type of data | Reference requirements | Standard and/or specification |
 | :--- | :--- | :--- |
 | List of MS Authorities designated for assessing and confirming Strategic Projects | Article 6 | Standard list of MS |
