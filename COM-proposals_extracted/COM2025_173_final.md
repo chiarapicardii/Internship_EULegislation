@@ -15,10 +15,6 @@ policy_areas: "Policy areas not found"
 | --- | --- | --- | --- | --- |
 | Reference to the requirement | Requirement description | Actor affected or concerned by the requirement | High- level Processe s | Category |
 | Article 5 | Member States shall ensure that collection in situ of marine genetic resources is carried out with due regard for the rights and legitimate interests of coastal states in areas within their national jurisdiction and with due regard for the interests of other states in areas beyond national jurisdiction, in accordance with the United Nations Convention on the Law of the Sea. For this purpose, Member States shall cooperate, as appropriate, including using the BBNJ Clearing-House Mechanism, in order to implement the provisions of this Chapter. Member States shall cooperate, as appropriate, including using the BBNJ Clearing- House Mechanism, in order to implement the provisions of this Chapter. | Member states | Data collection | Data; Digital solution |
-
-> As regards traditional own resources (customs duties, sugar levies), the amounts indicated must be net amounts, i.e. gross amounts after deduction of 20% for collection costs. 
-
-
 | Article 6 | The obligation to notify to the BBNJ Clearing House Mechanism certain information/data. EU Member States will have to identify who has to do this notification: most likely the chief scientists responsible for the research project. | Competent authorities of Member States BBNJ Clear- house mechanism Member states | Notificati on | Data; Digital Solutions; Digital Public Service |
 | --- | --- | --- | --- | --- |
 | Article 7 | Obligation for legal and natural persons utilising MGR of ABNJ to communicate to the competent authority the confirmations of deposits of samples and data. | Legal and natural persons Competent authorities of Member States Member States | Notificati on | Data; Digital solutions |
