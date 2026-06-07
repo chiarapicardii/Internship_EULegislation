@@ -27,32 +27,32 @@ policy_areas: "Policy areas not found"
 
 
 4.2. Data 
-| --- | --- | --- |
 | Type of data | Reference requirements | Standard and/or specification |
-| List of MS Authorities designated for assessing and confirming Strategic Projects; | Article 6 | Standard list of MS |
+| :--- | :--- | :--- |
+| List of MS Authorities designated for assessing and confirming Strategic Projects | Article 6 | Standard list of MS |
 | Strategic Project | Article 6 | Not defined |
 | Status of the highest national significance for Strategic Projects | Article 9 | Not defined |
 | Combined environmental assessment | Article 12 | Defined under other legal bases |
 | Spatial planning data | Article 13 Paragraph 1 | Not defined |
-| Combined urbanistic assessments | Article 13 Paragraph 2 | Not defined | 
-| Assessment whether strategic | Article 16 | Not defined |
-| projects address a supply chain vulnerability | projects address a supply chain vulnerability |
+| Combined urbanistic assessments | Article 13 Paragraph 2 | Not defined |
+| Assessment whether strategic projects address a supply chain vulnerability | Article 16 | Not defined |
 | National programmes | Article 19 | Not defined |
 
+The list of Member States’ Authorities designated for assessing and confirming Strategic Projects will be published on the ec.europa.eu website, relying on its standards for being findable and accessible. The act follows the only-once principle by not duplicating data collection for identification of  critical medicines and evaluation of vulnerabilities in their supply chains, by re-using data collected under the Revision of the General Pharmaceutical Legislation. Data related to assessments are governed by the relevant legal basis that trigger the assessments. 
 
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Type of data | Reference(s) to the requirement(s) |  | Actor who provides the data | Actor who receives the data |  | Trigger for the data exchange | Frequency (if applicable) |
-| List of MS Authorities designated for assessing and confirming Strategic Projects | Article 6 |  | Member States | Commission |  | Not defined | NA |
-| Project | Article 6 |  | Project promoter | Designated authority |  | at the initiative of the project promoter |  |
-| Strategic Project | Article 6 |  | Designated authority | Project promoter |  | At Project promoter request | No deadline set |
-| Status of the highest national significance for Strategic Projects | Article 9 |  | National authorities | Strategic Project promoter |  | No deadline set |  |
-| Combined environmental assessment | Article 12 |  | Competent authority | Strategic Project promoter |  | Within 45 days after receiving all necessary information and subject to exceptions |  |
-| Spatial planning data | Article 13 paragraph 1 | Member States | General public |  |  |  |  |
-| Combined urbanistic assessments | Article 13 paragraph 2 | Member States competent authorities | Strategic Project promoter | No deadline set |  |  |  |
-| Request for assessment of addressing vulnerability by Strategic Projects | Article 16 paragraph 2 | Strategic Project promoter | Designated authority | At the initiative of the project promoter |  |  |  |
-| Assessment of addressing vulnerability by Strategic Projects | Article 16 paragraph 2 | Designated authority | Strategic Project promoter | Within 15 working days |  |  |  |
-| Assessment of addressing vulnerability by Strategic Projects | Article 16 paragraph 2 | Designated authority | The Commission | If Strategic project addresses an existing vulnerability in the supply chain. No deadline set |  |  |  |
-| National programmes | Article 19 paragraph 2 | Member States | Commission | By 6 months after entry into force of this Regulation |  |  |  |
+| Type of data | Reference(s) to the requirement(s) | Actor who provides the data | Actor who receives the data | Trigger for the data exchange | Frequency (if applicable) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| List of MS Authorities designated for assessing and confirming Strategic Projects | Article 6 | Member States | Commission | Not defined | NA |
+| Project | Article 6 | Project promoter | Designated authority | At the initiative of the project promoter | NA |
+| Strategic Project | Article 6 | Designated authority | Project promoter | At Project promoter request | No deadline set |
+| Status of the highest national significance for Strategic Projects | Article 9 | National authorities | Strategic Project promoter | No deadline set | NA |
+| Combined environmental assessment | Article 12 | Competent authority | Strategic Project promoter | Within 45 days after receiving all necessary information | NA |
+| Spatial planning data | Article 13 paragraph 1 | Member States | General public | NA | NA |
+| Combined urbanistic assessments | Article 13 paragraph 2 | Member States competent authorities | Strategic Project promoter | No deadline set | NA |
+| Request for assessment of addressing vulnerability by Strategic Projects | Article 16 paragraph 2 | Strategic Project promoter | Designated authority | At the initiative of the project promoter | NA |
+| Assessment of addressing vulnerability by Strategic Projects | Article 16 paragraph 2 | Designated authority | Strategic Project promoter | Within 15 working days | NA |
+| Assessment of addressing vulnerability by Strategic Projects | Article 16 paragraph 2 | Designated authority | The Commission | If Strategic project addresses an existing vulnerability | No deadline set |
+| National programmes | Article 19 paragraph 2 | Member States | Commission | By 6 months after entry into force | NA |
 
 ## **4.3. Digital solutions** 
 
