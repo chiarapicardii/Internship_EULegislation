@@ -40,4 +40,4 @@ Explain how newly created data is findable, accessible, interoperable and reusab
 
 ## **4.5. Measures to support digital implementation** 
 
-**Not applicable.**
+## **Not applicable.**
