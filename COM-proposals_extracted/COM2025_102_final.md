@@ -16,7 +16,6 @@ policy_areas: "Policy areas not found"
 | Article 6 paragraph 1 | Recognition of Strategic Projects | Project promoter National authority | Request recognition of Strategic project | Data Digital Public Service |
 | Article 6 paragraph 2 | Member States shall communicate to the Commission which authority is designated for assessing and confirming Strategic Projects; | EC, MS | Notify | Data Digital Public Service |
 | Article 6 paragraph 3 | EC publishes online the list of MS designated authorities | EC, MS | Publish | Data |
-| --- | --- | --- | --- | --- |
 | Article 12 | Combination of environmental assessments required under several legal bases via joint or coordinated procedures | Project promoter National authority | Assess strategic projects for more legal bases | Data Digital solution Digital public service |
 | Article 13 Paragraph 1 | Availability of relevant spatial planning data | MS | Make available spatial planning data | Data Digital solution |
 | Article 13 Paragraph 2 | Combination of plans assessments | MS | Assess plans for more legal bases | Data Digital public service |
