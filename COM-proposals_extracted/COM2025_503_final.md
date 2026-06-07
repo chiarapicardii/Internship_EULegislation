@@ -10,7 +10,7 @@ policy_areas: "Better Regulation, Competitiveness"
 
 ## **4.1. Requirements of digital relevance** 
 
-## **Requirement 1** : 
+**Requirement 1** : 
 
 - Reference: Article 1(1), Article 2 (1a, 1c) and other 
 
@@ -20,7 +20,7 @@ policy_areas: "Better Regulation, Competitiveness"
 
 - • High-level processes: Market surveillance verification and monitoring. 
 
-- **Requirement 2** : 
+**Requirement 2** : 
 
 - Reference: Article 1 (2)(3)(4)(5) and other 
 
@@ -28,27 +28,27 @@ policy_areas: "Better Regulation, Competitiveness"
 
 - • Stakeholders: Economic Operators, Member States Authorities. • High-level processes: Market surveillance verification and monitoring. 
 
-- **Requirement 3** : • Reference: Article 1(6)(a), Article 2(2a) and other • High-level description: Definition of EC declaration of conformity, in electronic form. 
+**Requirement 3** : • Reference: Article 1(6)(a), Article 2(2a) and other • High-level description: Definition of EC declaration of conformity, in electronic form. 
 
 - • Stakeholders: Economic Operators, Member States Authorities. • High-level processes: Market surveillance verification and monitoring. 
 
-- **Requirement 4** : • Reference: Article 1(6)(b) and other • High-level description: include the information that the product complies with the requirements set out in that legislation in a digital product passport or to upload the EC declaration of conformity or instructions in a digital product passport. 
+**Requirement 4** : • Reference: Article 1(6)(b) and other • High-level description: include the information that the product complies with the requirements set out in that legislation in a digital product passport or to upload the EC declaration of conformity or instructions in a digital product passport. 
 
 - • Stakeholders: Economic Operators, Member States Authorities. • High-level processes: Market surveillance verification and monitoring 
 
-- **Requirement 5** : • Reference: Article 1 (7)(a) and other • High-level description: Member States shall ensure that the Commission and any other Member State may, on a reasoned request, obtain all information, in electronic form. 
+**Requirement 5** : • Reference: Article 1 (7)(a) and other • High-level description: Member States shall ensure that the Commission and any other Member State may, on a reasoned request, obtain all information, in electronic form. 
 
 - • Stakeholders: Economic Operators, Member States Authorities, European Commission. 
 
 - • High-level processes: conformity assessment procedure 
 
-- **Requirement 6** : • Reference: Article 1(7b) and other • High-level description: Where appropriate, the manufacturer shall provide the notified body carrying out the conformity assessment procedure with all the information and documentation relating to conformity assessment procedures in electronic form. 
+**Requirement 6** : • Reference: Article 1(7b) and other • High-level description: Where appropriate, the manufacturer shall provide the notified body carrying out the conformity assessment procedure with all the information and documentation relating to conformity assessment procedures in electronic form. 
 
 - Stakeholders: Notified Bodies, Economic Operators 
 
 - High-level processes: Conformity assessment procedures 
 
-## **Requirement 7** : 
+**Requirement 7** : 
 
 - Reference: Article 2 (1b) and other 
 
@@ -58,7 +58,7 @@ policy_areas: "Better Regulation, Competitiveness"
 
 - • High-level processes: Conformity assessment procedures, Market surveillance verification and monitoring. 
 
-## **Requirement 8** : 
+**Requirement 8** : 
 
 - Reference: Article 3(2) and other 
 
