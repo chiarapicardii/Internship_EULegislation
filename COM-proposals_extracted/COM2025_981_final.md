@@ -67,20 +67,9 @@ _For each digital solution, explain how the digital solution complies with the r
 
 ## _**4.4. Interoperability assessment**_ 
 
-
-| Digital public | Description |  | Reference(s) | Reference(s) | Interoperable | Other |
-| --- | --- | --- | --- | --- | --- | --- |
-| service |  |  |  |  | Europe | interoperabilit |
-| Solution(s) | y solution(s) |  |  |  |  |  |
-| (NOT |  |  |  |  |  |  |
-| APPLICABLE |  |  |  |  |  |  |
-| ) |  |  |  |  |  |  |
-| Industrial | Cross-border |  | Art. 2 [Art. 6(9) |  |  | Aarhus/PRTR |
-| Emissions | environmental |  | of | Regulation |  | protocol |
-| Portal | data exchange |  | (EU) | 2024/1244 |  | standards; |
-| between | MS | ] |  |  | INSPIRE |  |
-| and | EU |  |  |  | metadata rules |  |
-| institutions. |  |  |  |  |  |  |
+| Digital public service solution(s) | Description | Reference(s) | Interoperable Europe | Other interoperability |
+| :--- | :--- | :--- | :--- | :--- |
+| Industrial Emissions Portal | Cross-border environmental data exchange between MS and EU institutions. | Art. 2 [Art. 6(9) of Regulation (EU) 2024/1244] | - | Aarhus/PRTR protocol standards; INSPIRE metadata rules |
 
 _Assess the impact of the requirement(s) on cross-border interoperability_ 
 
@@ -93,10 +82,11 @@ _Assess the impact of the requirement(s) on cross-border interoperability_
 | Assess the organisational measures | Conditional operator exemptions for items(b), | MS capacityand internal |
 | for a smooth cross- border digital public services delivery Please list the governance measures foreseen | (c), (e), (f), (g) when Member States can obtain the data to fulfil Article 7 obligations; operators are relieved from Article 6(1)– (8) duties for those items, formalising a governance handover to Member States if they can gather such information by other means. (Article 2 of the proposal → Article 6(9), third subparagraph (link to Article 7). | governance structures may vary, creating unevenness in how consistently and promptly MS can assume “on behalf of” reporting. Without uniform guidance in the proposal on coordination mechanisms, cross-border escalation/issue handling may differ across Member States. |
 | Assess the measures taken to ensure a shared understanding of the data Please list such measures | The proposal ties alternative MS reporting to specific data items enumerated in Article 6(1) thereby preserving the shared meaning of which datasets are in scope even when operators are exempted. (Article 2 of the proposal → Article 6(9), second and third subparagraphs). Link to MS obligations under Article 7 ensures a common understanding of what must be compiled and delivered. (Article 2 of the proposal → Article 6(9), third subparagraph). | The proposal does not prescribe harmonised calculation methodologies or data dictionaries for the MS- collected “other means” data, so there could be different approaches. Mapping between operator-level semantics and MS-aggregated data may differ across among MS. |
-| Assess the use of commonly agreed open technical specifications and standards Please list such measures | No additional technical specifications or standards are introduced by this proposal for the Industrial Emissions Portal. The amendment strictly concerns who reports and under what conditions,not | In the absence technical prescriptions, MS implementations of “other means” may rely on heterogeneous formats/tools. |
+| Assess the use of commonly agreed open technical specifications and standards Please list such measures | No additional technical specifications or standards are introduced by this proposal for the Industrial Emissions Portal. The amendment strictly concerns who reports and under what conditions, not how (format/standard). | In the absence technical prescriptions, MS implementations of “other means” may rely on heterogeneous formats/tools. |
 
-how (format/standard). 
 
-**4.5. Measures to support digital implementation Description of Reference(s) Commission Actors to be Indicative the measure role involved timeline** Review of data Art. 1(3) [Art. Simplification Commission 2026 – 2027 publication 76(4) of of redundant practices under Regulation (EU) reporting. Batteries 2023/1542] Regulation 
+| Measures to support digital implementation | Description of the measure | Reference(s) | Commission role | Actors to be involved | Indicative timeline |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Review of data publication | Simplification of redundant reporting practices under Batteries Regulation | Art. 1(3) [Art. 76(4) of Regulation (EU) 2023/1542] | Commission | - | 2026 – 2027 |
 
 NB: In case the initial Commission proposal evolves considerably during the legislative negotiations, it should be considered to update information laid down in the LFDS for any financial and/or digital aspects, as necessary, with the aim to support the negotiation process and create clarity for all parties concern
