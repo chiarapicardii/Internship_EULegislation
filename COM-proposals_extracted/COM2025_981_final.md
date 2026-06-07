@@ -50,6 +50,7 @@ Modified data remains findable, accessible, interoperable, and reusable within c
 | Digital solution | Reference(s) to requirements | Main mandated functionalities | Responsible body | How is functionality catered for? | How is accessibility considered? | How is reusability considered? | Use of AI technologies |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Industrial Emissions Portal | Art. 2 [Art. 6(9) of Regulation (EU) 2024/1244]; alternative reporting methods by MS. | Data collection, validation, and publication | EEA / European Commission | - | Public access per Aarhus and PRTR | Reuse of existing portal infrastructure | None |
+
 _For each digital solution, explain how the digital solution complies with the requirements and obligations of the EU cybersecurity framework, and other applicable digital policies and legislative enactments (such as eIDAS, Single Digital Gateway, etc.)._ 
 
 ## _**Industrial Emissions Portal**_ 
