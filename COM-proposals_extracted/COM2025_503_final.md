@@ -14,35 +14,35 @@ policy_areas: "Better Regulation, Competitiveness"
 
 - Reference: Article 1(1), Article 2 (1a, 1c) and other 
 
-- • High-level descrittion: Definition of ‘digital contact’: any up-to-date and accessible online communication channel 
+- High-level descrittion: Definition of ‘digital contact’: any up-to-date and accessible online communication channel 
 
-- • Stakeholders: Economic Operators, Consumers and other End-users, Member States Authorities. 
+- Stakeholders: Economic Operators, Consumers and other End-users, Member States Authorities. 
 
-- • High-level processes: Market surveillance verification and monitoring. 
+- High-level processes: Market surveillance verification and monitoring. 
 
 **Requirement 2** : 
 
 - Reference: Article 1 (2)(3)(4)(5) and other 
 
-- • High-level description: the products must be accompanied by the internet address or machine-readable code through which the EC declaration of conformity can be accessed. 
+- High-level description: the products must be accompanied by the internet address or machine-readable code through which the EC declaration of conformity can be accessed. 
 
-- • Stakeholders: Economic Operators, Member States Authorities. • High-level processes: Market surveillance verification and monitoring. 
+- Stakeholders: Economic Operators, Member States Authorities. High-level processes: Market surveillance verification and monitoring. 
 
-**Requirement 3** : • Reference: Article 1(6)(a), Article 2(2a) and other • High-level description: Definition of EC declaration of conformity, in electronic form. 
+**Requirement 3** : Reference: Article 1(6)(a), Article 2(2a) and other High-level description: Definition of EC declaration of conformity, in electronic form. 
 
-- • Stakeholders: Economic Operators, Member States Authorities. • High-level processes: Market surveillance verification and monitoring. 
+- Stakeholders: Economic Operators, Member States Authorities. High-level processes: Market surveillance verification and monitoring. 
 
-**Requirement 4** : • Reference: Article 1(6)(b) and other • High-level description: include the information that the product complies with the requirements set out in that legislation in a digital product passport or to upload the EC declaration of conformity or instructions in a digital product passport. 
+**Requirement 4** : Reference: Article 1(6)(b) and other High-level description: include the information that the product complies with the requirements set out in that legislation in a digital product passport or to upload the EC declaration of conformity or instructions in a digital product passport. 
 
-- • Stakeholders: Economic Operators, Member States Authorities. • High-level processes: Market surveillance verification and monitoring 
+- Stakeholders: Economic Operators, Member States Authorities. High-level processes: Market surveillance verification and monitoring 
 
-**Requirement 5** : • Reference: Article 1 (7)(a) and other • High-level description: Member States shall ensure that the Commission and any other Member State may, on a reasoned request, obtain all information, in electronic form. 
+**Requirement 5** : Reference: Article 1 (7)(a) and other High-level description: Member States shall ensure that the Commission and any other Member State may, on a reasoned request, obtain all information, in electronic form. 
 
-- • Stakeholders: Economic Operators, Member States Authorities, European Commission. 
+- Stakeholders: Economic Operators, Member States Authorities, European Commission. 
 
-- • High-level processes: conformity assessment procedure 
+- High-level processes: conformity assessment procedure 
 
-**Requirement 6** : • Reference: Article 1(7b) and other • High-level description: Where appropriate, the manufacturer shall provide the notified body carrying out the conformity assessment procedure with all the information and documentation relating to conformity assessment procedures in electronic form. 
+**Requirement 6** : Reference: Article 1(7b) and other High-level description: Where appropriate, the manufacturer shall provide the notified body carrying out the conformity assessment procedure with all the information and documentation relating to conformity assessment procedures in electronic form. 
 
 - Stakeholders: Notified Bodies, Economic Operators 
 
@@ -56,7 +56,7 @@ policy_areas: "Better Regulation, Competitiveness"
 
 - Stakeholders: European Commission, Economic Operators, Notified Bodies, Market Surveillance Authorities. 
 
-- • High-level processes: Conformity assessment procedures, Market surveillance verification and monitoring. 
+- High-level processes: Conformity assessment procedures, Market surveillance verification and monitoring. 
 
 **Requirement 8** : 
 
