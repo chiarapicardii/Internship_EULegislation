@@ -46,6 +46,6 @@ financial accounts of companies. For digital solutions, the correlation between 
 
 Technical interoperability potential barrier: No format has been defined for the data in the SME/SMC definition. 
 
-4.5. Measures to support digital implementation 
+## 4.5. Measures to support digital implementation 
 
 The new recommendation on SMC definition provides a harmonised understanding of SME/SMC that can be used cross sectors and cross borders.
