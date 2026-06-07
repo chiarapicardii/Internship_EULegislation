@@ -8,8 +8,6 @@ policy_areas: "Policy areas not found"
 
 ## 4. DIGITAL DIMENSIONS
 
-## 4. DIGITAL DIMENSIONS
-
 ### 4.1. Requirements of digital relevance
 
 Requirement 1 (R1): **Require the roadworthiness certificate in electronic format** 
