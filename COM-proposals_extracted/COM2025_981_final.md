@@ -16,19 +16,16 @@ policy_areas: "Policy areas not found"
 | the |  | description | or concerned | processes | / | Digital |
 | requirement |  |  |  |  | solution | / |
 
-- 37 As regards traditional own resources (customs duties, sugar levies), the amounts indicated must be net amounts, i.e. gross amounts after deduction of 20% for collection costs. 
-
-**(Article/paragr Digital public aph) service Process digitalisation)** 
-
-Art. 1(3) [Art. Replaces the European Data review and Data 76(4) of prescriptive Commission / publication Regulation (EU) obligation for Member States 2023/1542] the Commission to publish a periodic report on Member States’ data with a more flexible system allowing adaptive data review and optional publication. Digital relevance: modifies existing EUlevel datamanagement and reporting processes. Art. 2 [Art. 6(9) Allows Member Member States; Environmental Data / Digital of Regulation States to gather Livestock and data collection Public Service (EU) 2024/1244 and submit data aquaculture and reporting ] on emissions, operators; waste transfers, European production Commission volumes and operating hours by alternative digital or administrative means, exempting certain operators. Digital relevance: modifies datacollection and 
-
-transmission processes within the Industrial Emissions Portal system. 
+| Article/paragraph | Digital public service | Process digitalisation |
+| :--- | :--- | :--- |
+| Art. 1(3) [Art. 76(4) of Regulation (EU) 2023/1542] | Replaces the European Commission prescriptive obligation for Member States to publish a periodic report on Member States’ data with a more flexible system allowing adaptive data review and optional publication. | Digital relevance: modifies existing EU level data management and reporting processes. |
+| Art. 2 [Art. 6(9) of Regulation (EU) 2024/1244] | Allows Member States to gather and submit data on emissions, waste transfers, production volumes and operating hours by alternative digital or administrative means, exempting certain operators. | Digital relevance: modifies data collection and transmission processes within the Industrial Emissions Portal system. |
 
 ## **4.2. Data Type of data** 
 
-## **Reference(s) Standards/specifications (if applicable)** 
-
-Existing Industrial Emissions Art. 2 [Art. 6(9) of Regulation Portal data formats Environmental and industrial (EU) 2024/1244 ] (XML/CSV); aligned with emissions data Aarhus and UNECE PRTR Protocol 
+| Reference(s) | Standards/specifications (if applicable) |
+| :--- | :--- |
+| Art. 2 [Art. 6(9) of Regulation (EU) 2024/1244] | Existing Industrial Emissions Portal data formats (XML/CSV); aligned with Aarhus and UNECE PRTR Protocol |
 
 ## _**Alignment with the European Data Strategy**_ 
 
