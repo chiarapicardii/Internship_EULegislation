@@ -91,9 +91,8 @@ CBAM will be processing following data assets
 Further details for each data asset can be found in the table below 
 
 
-| • National Competent Authorities Functions. (Phase3) • CBAM Non-Compliance Monitoring, Circumvention Investigation, and Risk Management Function. (Phase3) Further details for each data asset can be found in the table below | • National Competent Authorities Functions. (Phase3) • CBAM Non-Compliance Monitoring, Circumvention Investigation, and Risk Management Function. (Phase3) Further details for each data asset can be found in the table below | • National Competent Authorities Functions. (Phase3) • CBAM Non-Compliance Monitoring, Circumvention Investigation, and Risk Management Function. (Phase3) Further details for each data asset can be found in the table below |
-| --- | --- | --- |
-| CBAM Definitive Primary Asset Description | Relevant Business Component/ Processes Description |  |
+| CBAM Definitive Primary Asset Description | Relevant Business Component/Processes Description |
+| :--- | :--- |
 | BAM Certificate Management Data | CBAM Certificate Lifecycle Management provides information on certificates and number of certificates processed, their value, and manages the certificate's lifecycle, and forprovidinginformation for risk and non-compliance monitoring purposes. |  |
 | CBAM Declarant Data | Declarant Authorisation & Declarant Replication & Validation Data. Declarant Account & Account Management Data. CBAM authorisation management in charge of lifecycle management of the CBAM authorisation granted by the NCA to importers or indirect representatives. Communicates the required information of the CBAM Declarant Account to CBAM Authorisation Replication and Validation Services (ARVS), that maintains the information on the CBAM Authorised Declarants to be provided to NCAs and National Customs Competent Administrations (NCCA) in charge of assessing the importer authorisations. |  |
 | CBAM Declaration Data, Review, and Declaration Lifecycle Data. | Declaration Lifecycle Management & Declaration Reporting Data. |  |
