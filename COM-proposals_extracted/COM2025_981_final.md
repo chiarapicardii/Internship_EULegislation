@@ -39,32 +39,17 @@ Modified data remains findable, accessible, interoperable, and reusable within c
 
 ## **Data flows** 
 
-
-| Type of data | Referenc e(s) to the requirem ent(s) | Actor who provides the data | Actor who receives the data | Trigger for the data exchange | Frequency (if applicable) |
-| --- | --- | --- | --- | --- | --- |
-| Industrial emissions & waste transfer data Art. 2 [Art. 6(9) of Regulation (EU) 2024/1244 ] Operators / Member States Commissio n / EEA Environmenta l reporting cycle Annual / as collected |  |  |  |  |  |
-
-Art. 1(3) [Art. 76(4) of European Battery waste Member Reporting As Regulation Commissio management data (EU) States n period determined 2023/1542] 
+| Type of data | Reference(s) to the requirement(s) | Actor who provides the data | Actor who receives the data | Trigger for the data exchange | Frequency (if applicable) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Industrial emissions & waste transfer data | Art. 2 [Art. 6(9) of Regulation (EU) 2024/1244] | Operators / Member States | Commission / EEA | Environmental reporting cycle | Annual / as collected |
+| Battery waste management data | Art. 1(3) [Art. 76(4) of Regulation (EU) 2023/1542] | Member States | European Commission | Reporting period | As determined |
 
 ## **4.3. Digital solutions** 
 
 
-| Digital | Reference(s | Reference(s | Main | Responsib | Responsib | How | is | How is |  | Use of AI |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| solution | ) to | the | mandated | le body |  | accessibili |  | reusability |  | technologi |
-| requiremen |  | functionaliti |  |  | ty catered |  | considered |  | es |  |
-| ts |  | es |  |  | for? |  | ? |  |  |  |
-| Industria | Art. 2 | [Art. | Data | EEA | / | Public |  | Reuse | of | None |
-| l | 6(9) | of | collection, | European |  | access | per | existing |  |  |
-| Emissio | Regulation |  | validation, | Commissi |  | Aarhus |  | portal |  |  |
-| ns Portal | (EU) |  | and | on |  | and PRTR |  | infrastructu |  |  |
-| 2024/1244 ] |  | publication; |  |  |  |  | re |  |  |  |
-| alternative |  |  |  |  |  |  |  |  |  |  |
-| reporting |  |  |  |  |  |  |  |  |  |  |
-| methods by |  |  |  |  |  |  |  |  |  |  |
-| MS. |  |  |  |  |  |  |  |  |  |  |
-| — |  | — |  | — |  |  |  |  |  |  |
-
+| Digital solution | Reference(s) to requirements | Main mandated functionalities | Responsible body | How is functionality catered for? | How is accessibility considered? | How is reusability considered? | Use of AI technologies |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Industrial Emissions Portal | Art. 2 [Art. 6(9) of Regulation (EU) 2024/1244]; alternative reporting methods by MS. | Data collection, validation, and publication | EEA / European Commission | - | Public access per Aarhus and PRTR | Reuse of existing portal infrastructure | None |
 _For each digital solution, explain how the digital solution complies with the requirements and obligations of the EU cybersecurity framework, and other applicable digital policies and legislative enactments (such as eIDAS, Single Digital Gateway, etc.)._ 
 
 ## _**Industrial Emissions Portal**_ 
