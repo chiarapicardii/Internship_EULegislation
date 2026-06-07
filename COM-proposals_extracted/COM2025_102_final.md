@@ -26,18 +26,21 @@ policy_areas: "Policy areas not found"
 ## **4.2. Data** 
 
 
-| 4.2. Data |  |  |  |  |  |  |  |
+4.2. Data 
+| --- | --- | --- |
+| Type of data | Reference requirements | Standard and/or specification |
+| List of MS Authorities designated for assessing and confirming Strategic Projects; | Article 6 | Standard list of MS |
+| Strategic Project | Article 6 | Not defined |
+| Status of the highest national significance for Strategic Projects | Article 9 | Not defined |
+| Combined environmental assessment | Article 12 | Defined under other legal bases |
+| Spatial planning data | Article 13 Paragraph 1 | Not defined |
+| Combined urbanistic assessments | Article 13 Paragraph 2 | Not defined | 
+| Assessment whether strategic | Article 16 | Not defined |
+| projects address a supply chain vulnerability | projects address a supply chain vulnerability |
+| National programmes | Article 19 | Not defined |
+
+
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Type of data | Reference requirements | Standard and/or specification |  |  |  |  |  |
-| List of MS Authorities designated for assessing and confirming Strategic Projects; | Article 6 | Standard list of MS |  |  |  |  |  |
-| Strategic Project | Article 6 | Not defined |  |  |  |  |  |
-| Status of the highest national significance for Strategic Projects | Article 9 | Not defined |  |  |  |  |  |
-| Combined environmental assessment | Article 12 | Defined under other legal bases |  |  |  |  |  |
-| Spatial planning data | Article 13 Paragraph 1 | Not defined |  |  |  |  |  |
-| Combined urbanistic assessments | Article 13 Paragraph 2 | Not defined |  |  |  |  |  |
-| Assessment whether strategic | Article 16 | Not defined |  |  |  |  |  |
-| projects address a supply chain vulnerability | projects address a supply chain vulnerability |  |  |  |  |  |  |
-| National programmes |  | Article 19 |  |  | Not defined |  |  |
 | Type of data | Reference(s) to the requirement(s) |  | Actor who provides the data | Actor who receives the data |  | Trigger for the data exchange | Frequency (if applicable) |
 | List of MS Authorities designated for assessing and confirming Strategic Projects | Article 6 |  | Member States | Commission |  | Not defined | NA |
 | Project | Article 6 |  | Project promoter | Designated authority |  | at the initiative of the project promoter |  |
