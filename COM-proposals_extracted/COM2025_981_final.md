@@ -11,12 +11,10 @@ policy_areas: "Policy areas not found"
 ## **4.1. Requirements of digital relevance** 
 
 
-| Reference | to | Requirement | Actor affected | High-level | Category (Data | Category (Data |
-| --- | --- | --- | --- | --- | --- | --- |
-| the |  | description | or concerned | processes | / | Digital |
-| requirement |  |  |  |  | solution | / |
-
-| Article/paragraph | Digital public service | Process digitalisation |
+| Reference to the requirement (Article/paragraph) | Requirement description | Actor affected or concerned | High-level processes | Category (Data / Digital solution) |
+| :--- | :--- | :--- | :--- | :--- |
+| Art. 1(3) [Art. 76(4) of Regulation (EU) 2023/1542] | Replaces the European Commission prescriptive obligation for Member States to publish a periodic report on Member States’ data with a more flexible system allowing adaptive data review and optional publication. | Member States; European Commission | Data review and publication | Data |
+| Art. 2 [Art. 6(9) of Regulation (EU) 2024/1244] | Allows Member States to gather and submit data on emissions, waste transfers, production volumes and operating hours by alternative digital or administrative means. | Member States; Environmental and livestock/aquaculture operators; European Commission | Environmental Data collection and reporting | Digital solution |
 | :--- | :--- | :--- |
 | Art. 1(3) [Art. 76(4) of Regulation (EU) 2023/1542] | Replaces the European Commission prescriptive obligation for Member States to publish a periodic report on Member States’ data with a more flexible system allowing adaptive data review and optional publication. | Digital relevance: modifies existing EU level data management and reporting processes. |
 | Art. 2 [Art. 6(9) of Regulation (EU) 2024/1244] | Allows Member States to gather and submit data on emissions, waste transfers, production volumes and operating hours by alternative digital or administrative means, exempting certain operators. | Digital relevance: modifies data collection and transmission processes within the Industrial Emissions Portal system. |
