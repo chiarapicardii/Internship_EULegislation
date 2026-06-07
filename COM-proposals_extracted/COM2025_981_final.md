@@ -85,8 +85,10 @@ _Assess the impact of the requirement(s) on cross-border interoperability_
 | Assess the use of commonly agreed open technical specifications and standards Please list such measures | No additional technical specifications or standards are introduced by this proposal for the Industrial Emissions Portal. The amendment strictly concerns who reports and under what conditions, not how (format/standard). | In the absence technical prescriptions, MS implementations of “other means” may rely on heterogeneous formats/tools. |
 
 
-| Measures to support digital implementation | Description of the measure | Reference(s) | Commission role | Actors to be involved | Indicative timeline |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Review of data publication | Simplification of redundant reporting practices under Batteries Regulation | Art. 1(3) [Art. 76(4) of Regulation (EU) 2023/1542] | Commission | - | 2026 – 2027 |
+## 4.5. Measures to support digital implementation
+
+| Description of the measure | Reference(s) | Commission role | Actors to be involved | Indicative timeline |
+| :--- | :--- | :--- | :--- | :--- |
+| Review of data publication practices under Batteries Regulation | Art. 1(3) [Art. 76(4) of Regulation (EU) 2023/1542] | Simplification of redundant reporting. | Commission | 2026 – 2027 |
 
 NB: In case the initial Commission proposal evolves considerably during the legislative negotiations, it should be considered to update information laid down in the LFDS for any financial and/or digital aspects, as necessary, with the aim to support the negotiation process and create clarity for all parties concern
