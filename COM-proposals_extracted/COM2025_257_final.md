@@ -24,13 +24,9 @@ Otherwise, please list the requirements of digital relevance in the table below:
 
 _High-level description of the data in scope and any related standards/specifications_ 
 
-**Type of data Reference(s) to the requirement Standard and/or specification (if applicable)** 
-
-Catches of certain fish stocks 
-
-Article 1(2) and Annex 
-
-// 
+| Type of data | Reference(s) to the requirement | Standard and/or specification (if applicable) |
+| :--- | :--- | :--- |
+| Catches of certain fish stocks | Article 1(2) and Annex | // |
 
 _**Alignment with the European Data Strategy**_ 
 
