@@ -10,37 +10,37 @@ policy_areas: "Policy areas not found"
 
 ### 4.1. Requirements of digital relevance
 
-Requirement 1 (R1): Require the roadworthiness certificate in electronic format  
+Requirement 1 (R1): **Require the roadworthiness certificate in electronic format**  
 (a) Directive 2014/45/EU (PTI), Article 8(2) 
 (b) While the current PTI Directive allows the use of electronically produced roadworthiness certificates, it requires a certified printout to be handed to the person presenting the vehicle for PTI. The measure will limit the requirement to issuing an electronic document only, while providing a printout only if the person presenting the vehicle so requests. 
 (c) The exchange of PTI-related data under R1 will allow enforcing authorities to check the status of any vehicle registered in the EU in the case of a roadside check or for the purpose of re-registration, without the need for the owner of the vehicle to present a printed certificate. 
 (d) Stakeholders affected: Member States, vehicle owners. 
 (e) Management of existing national vehicle registers and PTI databases. 
 
-Requirement 2 (R2): Provide electronic access to relevant data, including on PTI reports stored in national databases, to the registration authorities of other EU Member States using a common interface 
+Requirement 2 (R2): **Provide electronic access to relevant data, including on PTI reports stored in national databases, to the registration authorities of other EU Member States using a common interface** 
 (a) Revised Directive 1999/37/EC (VRD), Art.15, and Directive 2014/45/EU (PTI) Art 16, and Directive 2014/45/EU (PTI), Article 18a Directive 2014/47/EU (RSI). 
 (b) This measure will require that Member States provide access to other Member States requesting registration or PTI-related vehicle data, and odometer history for the vehicles registered in their territory. 
 (c) Stakeholders affected: Member States, the Commission. 
 (d) In order to facilitate the data exchange, the measure would require Member States to connect their national databases (vehicle registers and related PTI databases as the case may be) to the existing MOVE-HUB platform developed and run by the Commission for the purpose of exchanging various road transport-related information among Member States. 
 
-Requirement 3 (R3): Introduce issuing the registration certificates in digital format to gradually replace current paper (and smart card) documents  
+Requirement 3 (R3): **Introduce issuing the registration certificates in digital format to gradually replace current paper (and smart card) documents**  
 (a) Revised Directive 1999/37/EC (VRD), Art.2, Art.3, Art.5, Annex III 
 (b) The measure will introduce the requirement to issue new registration certificates in a digital format by default. The technical details of the digital/mobile registration certificate will be defined in an implementing act and refer to the relevant ISO standards as in the case of the digital driving licence. Similarly to the mobile driving licence, the digital registration certificate will rely on the eIDAS initiative. 
 (c) Stakeholders affected: Member States, vehicle owners. 
 (d) The measure applies to all vehicle categories that are subject to registration in the Member States. For the purposes of identifying vehicles in road traffic as well as for re-registration, Member States will have to recognise the digital version of the registration certificate. As the physical documents, the digital vehicle registration certificate would be used to confirm the registration of the vehicle, to check certain technical data about it (the digital version could store more data than the paper version), and to allow verification by the authorities. 
 
-Requirement 4 (R4): Add new data to the vehicle register – minimum mandatory set (including among others: country of 1st registration, registration status, PTI status, changes due to transformation) 
+Requirement 4 (R4): **Add new data to the vehicle register – minimum mandatory set (including among others: country of 1st registration, registration status, PTI status, changes due to transformation)** 
 (a) Revised Directive 1999/37/EC (VRD), Art.6, Annexes I and II 
 (b) It will provide for a minimum set of mandatory data to be registered by Member States. New data elements could include among others: a. Country where the vehicle was registered for the first time; b. Vehicle status (e.g. deregistered, temporarily deregistered, suspended, exported, end-of-life, destructed) c. PTI status (passed with no or minor defects, limited validity with major defects, failed – critical defects) and validity of the roadworthiness certificate (including expiry date), as well as status of the battery (for EVs): battery identification number; and information if the battery has been repaired or replaced; d. Changes in documentation or transformation – any important vehicle refurbishment to be approved and registered; e. For a vehicle which is permanently deregistered, information on the reasons for deregistration. 
 (c) Stakeholders affected: Member States, vehicle owners. 
 (d) Management of existing national vehicle registers and PTI databases. 
 
-Requirement 5 (R5): Recording of odometer readings in national databases 
+Requirement 5 (R5): **Recording of odometer readings in national databases** 
 (a) Article 4a of Directive 2014/45/EU (PTI). 
 (b) The measure requires that service providers carrying out repairs or maintenance work on a vehicle record the odometer readings in a dedicated national database or in the national vehicle register. Vehicle manufacturers must also send regular odometer readings from their connected vehicles. The article also requires Member States to share odometer history with inspectors, the holder of the registration certificate and competent the authorities in the Member States (cf. R2). 
 (c) Stakeholders affected: Member States, vehicle repairers, workshops, vehicle manufacturers, vehicle owners and potential buyers. 
 
-Requirement 6 (R6): Communication of information by Member States to the Commission 
+Requirement 6 (R6): **Communication of information by Member States to the Commission** 
 (a) Article 20a of Directive 2014/45/EU (PTI), Article 16 of revised Directive 1999/37/EC (VRD), Article 20 of Directive 2014/47/EU (RSI). 
 (b) Similar but simpler and less frequent than the current reporting requirement under the RSI Directive, Member States will be required to communicate a minimum set of information related to PTIs, RSIs, and re-registrations of vehicles every three years. Member States will use a common reporting platform rather than sending emails with Excel files attached. The reporting format will be laid down in an implementing act to be adopted by the Commission. 
 (c) Stakeholders affected: Member States.
