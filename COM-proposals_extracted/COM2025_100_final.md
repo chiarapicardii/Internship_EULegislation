@@ -63,8 +63,8 @@ Articles 3 and 6 of the regulation requires Member States to assess the quality 
 ## **Data flows** 
 
 
-| --- | --- | --- | --- | --- | --- |
 | Type of data | Reference(s) to the requirement(s) | Actor who provides the data | Actor who receives the data | Trigger for the data exchange | Frequency (if applicable) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | Information needed to produce non-financial commercial real estate statistics | Articles 4(2) and 4(3) | Statistical units as set out in Council Regulation (EEC) No 696/93; holders of administrative records; private data holders | National statistical authorities responsible for compiling non- financial commercial real estate statistics | Upon the request of the national statistical authorities responsible for compiling non-financial commercial real estate statistics | Not applicable |
 | Source data from administrative data sources, databases, interoperability systems and etc., incl. electronic records of transactions at the level of detail necessary to produce non-financial commercial real estate statistics | Article 4(2) and 4(3) | Statistical units | National statistical authorities responsible for compiling non- financial commercial real estate statistics | Upon the request of the national statistical authorities responsible for compiling non-financial commercial real estate statistics | Not applicable |
 | Non-financial commercial real estate statistical indicators for variables specified in the Annex of the regulation | Article 5(2) | Member States | European Commission (Eurostat) | // | Not applicable |
