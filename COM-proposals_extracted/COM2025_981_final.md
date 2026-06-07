@@ -21,11 +21,10 @@ policy_areas: "Policy areas not found"
 | Art. 1(3) [Art. 76(4) of Regulation (EU) 2023/1542] | Replaces the European Commission prescriptive obligation for Member States to publish a periodic report on Member States’ data with a more flexible system allowing adaptive data review and optional publication. | Digital relevance: modifies existing EU level data management and reporting processes. |
 | Art. 2 [Art. 6(9) of Regulation (EU) 2024/1244] | Allows Member States to gather and submit data on emissions, waste transfers, production volumes and operating hours by alternative digital or administrative means, exempting certain operators. | Digital relevance: modifies data collection and transmission processes within the Industrial Emissions Portal system. |
 
-## **4.2. Data Type of data** 
-
-| Reference(s) | Standards/specifications (if applicable) |
-| :--- | :--- |
-| Art. 2 [Art. 6(9) of Regulation (EU) 2024/1244] | Existing Industrial Emissions Portal data formats (XML/CSV); aligned with Aarhus and UNECE PRTR Protocol |
+## **4.2. Data 
+| Type of data | Reference(s) | Standards/specifications (if applicable) |
+| :--- | :--- | :--- |
+| Environmental and industrial emissions data | Art. 2 [Art. 6(9) of Regulation (EU) 2024/1244] | Existing Industrial Emissions Portal data formats (XML/CSV); aligned with Aarhus and UNECE PRTR Protocol |
 
 ## _**Alignment with the European Data Strategy**_ 
 
